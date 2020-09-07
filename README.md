@@ -14,10 +14,11 @@ My overall project _**Project M**_ is more a _**Role Play**_ vision than a hard 
 
 If my Project gets finished one day there will be links to the Discordserver and all of the other things you need. (The Server will be only german language, but maybe it will get a english part in it someday)
 <br />
-<a href="">
-    <img align="left" alt="Projekt-M Discordserver" width="32px" src="https://raw.githubusercontent/CyberHD1811/CyberHD1811/master/images/discord-round.svg">
-</a>
 
+<a href="https://discord.com">
+    <img align="left" alt="Projekt-M Discordserver" width="30px" src="https://raw.githubusercontent.com/CyberHD1811/CyberHD1811/master/images/discord.svg">
+</a>
+<br />
 <br />
 
 ## Project M uses:

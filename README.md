@@ -37,7 +37,7 @@ If my Project gets finished one day there will be links to the Discordserver and
     <img align="center" alt="CyberHD1811's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CyberHD1811&show_icons=true&hideborder=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=22de09&icon_color=22de09&bg_color=000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="CyberHD1811's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHD1811&layout=compact&title_color=ffffff&text_color=22de09&icon_color=22de09&bg_color=000000" />
+    <img align="center" alt="CyberHD1811's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHD1811&layout=compact&count_private=true&title_color=ffffff&text_color=22de09&icon_color=22de09&bg_color=000000" />
 </a>
 <a href="https://github.com/CyberHD1811/Projekt-M">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CyberHD1811&repo=Projekt-M&title_color=ffffff&text_color=22de09&icon_color=22de09&bg_color=000000">

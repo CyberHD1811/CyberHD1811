@@ -12,7 +12,7 @@ My overall project _**Project M**_ is more a _**Role Play**_ vision than a hard 
 
 <br />
 
-If my Project gets finished one day there will be links to the Discordserver and all of the other things you need. (The Server will be only german language, but maybe it will get a english part in it someday)
+If my Project gets finished one day there will be links to the Discordserver and all of the other things you need. (The Server will be only german language, but maybe it will get a english part in it someday.)
 <br />
 
 <a href="https://discord.com">
